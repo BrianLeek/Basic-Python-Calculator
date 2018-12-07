@@ -7,9 +7,9 @@ Notes: This project works best with Python3.
 # How To Use?:
 1. Download the calculator.py and run it in terminal by using this: <blockquote>python3 calculator.py</blockquote>
 2. Select what you would like to do by using the numbers 1-4.
-<blockquote>1. Addition
-2. Subtraction
-3. Multiply
-4. Divide</blockquote>
+<blockquote>1 = Addition<br />
+2 = Subtraction<br />
+3 = Multiply<br />
+4 = Divide</blockquote>
 3. Input your first number then press enter.
 4. Input your second number then press enter. Now the answer to that math problem should display.
