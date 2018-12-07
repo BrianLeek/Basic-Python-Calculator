@@ -5,7 +5,7 @@ Project By: Brian Leek<br />
 Notes: This project works best with Python3.
 
 # How To Use?:
-1. Download the calculator.py and run it in terminal by using this: <blockquote>python3 calculator.py</blockquote>
+1. Download calculator.py and run it in terminal by using: <blockquote>python3 calculator.py</blockquote>
 2. Select what you would like to do by using the numbers 1-4.
 <blockquote>1 = Addition<br />
 2 = Subtraction<br />
