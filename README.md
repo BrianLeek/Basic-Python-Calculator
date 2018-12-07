@@ -1,7 +1,7 @@
 # Project Infomation:
-Project Name: Basic Calculator
-Project Description: Basic calculator created in Python. This calculator can add, subtract, multiply, and divide well also getting the remainder of a division problem.
-Project By: Brian Leek
+Project Name: Basic Calculator<br />
+Project Description: Basic calculator created in Python. This calculator can add, subtract, multiply, and divide well also getting the remainder of a division problem.<br />
+Project By: Brian Leek<br />
 Notes: This project works best with Python3.
 
 # How To Use?:
