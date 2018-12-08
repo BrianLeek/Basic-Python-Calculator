@@ -11,5 +11,5 @@ Notes: This project works best with Python3.
 2 = Subtraction<br />
 3 = Multiply<br />
 4 = Divide</blockquote>
-3. Input your first number then press enter.
+3. Input your first number then press enter.<br />
 4. Input your second number then press enter. Now the answer to that math problem should display.
